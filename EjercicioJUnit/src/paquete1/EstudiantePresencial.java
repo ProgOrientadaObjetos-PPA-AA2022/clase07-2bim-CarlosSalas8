@@ -6,9 +6,9 @@ public class EstudiantePresencial extends Estudiante{
         numeroCreditos: Entero 
         costoCredito: Real 
         matriculaPresencial: Real */
-    int numeroCreditos;
-    double costoCredito;
-    double matriculaPresencial;
+    private int numeroCreditos;
+    private double costoCredito;
+    private double matriculaPresencial;
     
     //  Métodos establecer y calcular para los datos o atributos de la clase
     // 2.  Método establecerNumeroCreditos(numero: Real)
